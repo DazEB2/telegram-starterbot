@@ -1,5 +1,3 @@
-import bodyParser from "body-parser";
-import express from "express";
 const { Telegraf, Markup } = require('telegraf')
 
 const token = process.env.BOT_TOKEN
